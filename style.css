@@ -19,7 +19,6 @@
 }
 .navbar>ul>li>a{
     color: #fff;
-    text-decoration: none;
 }
 .main-content{
     padding-top: 5em;
@@ -47,7 +46,7 @@
     border:1px solid #ddd;
     margin: 1em;
     padding: 1em;
-    box-shadow: 0 4px 8px rgba(0,0,0,0);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     width: 30%;
     box-sizing: border-box;
     transition: transform 0.3s;
